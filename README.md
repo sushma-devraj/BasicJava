@@ -1,1 +1,2 @@
 # BasicJava
+Core Java training
